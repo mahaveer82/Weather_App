@@ -24,7 +24,7 @@ A simple and interactive **Weather App** built using **JavaScript, HTML, and CSS
    ```bash
    git clone https://github.com/mahaveer82/Weather_App
 2. Open index.html in your browser.
-3. -(Optional) To make it work with your own API key:
+3. (Optional) To make it work with your own API key:
    
-   -Sign up at https://openweathermap.org/
-   -Replace YOUR_API_KEY in the JavaScript file with your actual API key.
+   - Sign up at https://openweathermap.org/
+   - Replace YOUR_API_KEY in the JavaScript file with your actual API key.
